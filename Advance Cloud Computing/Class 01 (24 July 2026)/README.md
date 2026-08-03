@@ -1,4 +1,8 @@
-# Text Note For Class 01 (24 July 2026) Advance Cloud Computing
+# Advanced Cloud Computing
+## Text Note – Class 01
+**Date:** 24 July 2026
+
+This document provides the guidelines for selecting a research article, preparing the presentation, creating assessment questions, and submitting the required files for the Advanced Cloud Computing course.
 
 # ☁️ Cloud Computing Presentation & Assignment
 
