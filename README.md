@@ -190,6 +190,6 @@ This policy shall become effective from the semester approved by the Academic Co
 | **Total** | **100** |
 
 ---
-Dulal 
+Dulal CSEcode
 **Department of Computer Science and Engineering**  
 **Jagannath University**
