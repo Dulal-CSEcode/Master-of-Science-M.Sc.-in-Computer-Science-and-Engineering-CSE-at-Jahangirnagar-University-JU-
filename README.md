@@ -189,6 +189,45 @@ This policy shall become effective from the semester approved by the Academic Co
 | Final Examination | 60 |
 | **Total** | **100** |
 
+
+
+
+# 📚 Academic Resources Repository
+
+Welcome to the Academic Resources Repository. This collection has been created to help students prepare effectively for their academic courses and examinations.
+
+## 📌 What You Will Find
+
+This repository contains:
+
+- ✅ Previous semester question papers
+- ✅ Batch-wise examination question papers
+- ✅ Important academic materials and study resources
+- ✅ Past questions to help you understand examination patterns and improve your preparation
+
+## 📂 Google Drive Repository
+
+All study materials are available in the Google Drive folder below and can be accessed and downloaded at any time.
+
+**Google Drive:**  
+https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw?usp=sharing
+
+## 📖 Guidelines
+
+- Use these resources for academic learning and examination preparation.
+- Keep the materials organized and avoid modifying or deleting shared content.
+- Share the repository with classmates who may benefit from these resources.
+
+## 🤝 Contribution
+
+If you have additional question papers, lecture notes, or other useful academic materials, feel free to contribute so that everyone can benefit.
+
+---
+
+**Thank you for being a part of this learning community. We encourage everyone to stay active and make the best use of these resources.**
+
+
+
 ---
 Dulal CSEcode
 **Department of Computer Science and Engineering**  
